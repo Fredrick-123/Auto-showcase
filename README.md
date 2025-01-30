@@ -37,7 +37,6 @@ Node.js
 npm (Node Package Manager)
 Cloning the Repository
 
-git clone https://github.com/adrianhajdin/project_next13_car_showcase.git
 cd project_next13_car_showcase
 Installation
 
@@ -49,7 +48,7 @@ Set Up Environment Variables
 Create a new file named .env in the root of your project and add the following content:
 
 NEXT_PUBLIC_RAPID_API_KEY=
-NEXT_PUBLIC_IMAGIN_API_KEY=hrjavascript-mastery
+NEXT_PUBLIC_IMAGIN_API_KEY=
 Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up on the corresponding websites from Rapid API to Imagin Cars
 
 Running the Project
